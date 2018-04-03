@@ -1,0 +1,5 @@
+* Use slim-jekyll: https://github.com/slim-template/jekyll-slim
+* Tag cloud from: https://gist.github.com/ilkka/710577 or https://gist.github.com/yeban/2290195 or https://github.com/pattex/jekyll-tagging
+* use bibtex for tex: https://github.com/archome/jekyll-citation
+* add thumbnailer
+* mirror site from a cloud
