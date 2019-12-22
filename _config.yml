@@ -19,3 +19,6 @@ timezone: Europe/Moscow
 
 # Server settings
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'ЧИНИ']
+
+# plugins
+plugins: [jekyll-paginate]
